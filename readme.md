@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Lao, Software Developer
+# 🔥🐉🔥 ¡Hola! Soy Lao, Software Developer
 
 Soy desarrollador de software enfocado en crear **aplicaciones web modernas**, adaptables y seguras. Trabajo tanto en el **frontend** como en el **backend**, aplicando principios de programación limpia, diseño responsivo (*mobile first*) y buenas prácticas de seguridad.
 
