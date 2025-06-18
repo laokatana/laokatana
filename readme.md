@@ -34,7 +34,6 @@ También tengo formación en **redes y ciberseguridad**, aplicando medidas de pr
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-0F1419?style=for-the-badge&logo=datadog&logoColor=white)
 ![Networking](https://img.shields.io/badge/-Networking-0052CC?style=for-the-badge&logo=cisco&logoColor=white)
