@@ -52,9 +52,6 @@ También tengo formación en **redes y ciberseguridad**, aplicando medidas de pr
 ---
 
 ## 📈 En qué estoy trabajando ahora
-
-- Backend avanzado con TypeScript y PostgreSQL  
-- Buenas prácticas de arquitectura limpia y principios SOLID  
 - Seguridad en el desarrollo (OWASP Top 10, validación, sanitización, autenticación)  
 - Proyectos reales con clientes para ganar experiencia profesional 💼  
 
